@@ -6,7 +6,7 @@
 # catalog-version 2.1
 Name:		texlive-makeshape
 Version:	2.1
-Release:	9
+Release:	10
 Summary:	Declare new PGF shapes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape
