@@ -1,6 +1,6 @@
 Name:		texlive-makeshape
 Version:	28973
-Release:	1
+Release:	2
 Summary:	Declare new PGF shapes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape
