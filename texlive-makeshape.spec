@@ -3,7 +3,7 @@ Version:	28973
 Release:	2
 Summary:	Declare new PGF shapes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makeshape.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makeshape.doc.r%{version}.tar.xz
